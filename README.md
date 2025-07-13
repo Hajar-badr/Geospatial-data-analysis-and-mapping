@@ -19,7 +19,7 @@ Yet in Normandy, as in other regions, significant disparities persist. This stud
 
 ## 📄 Full Report (PDF)
 
-👉 [Download the full report (PDF - 9MB)](Geospatial-data-analysis-and-mapping/Geospatial_Analysis_and_Healthcare_Accessibility_in_Normandy.pdf)
+👉 [Download the full report (PDF - 9MB)](./Geospatial_Analysis_and_Healthcare_Accessibility_in_Normandy.pdf)
 
 ## 📌 Author
 
